@@ -1,0 +1,5 @@
+{type:SELL, amount:3.2},
+
+{type:BUY, amount:4.0},
+
+{type:SELL, amount:1.3}
